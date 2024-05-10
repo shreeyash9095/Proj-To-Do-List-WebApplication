@@ -20,6 +20,7 @@ main span{
     top: 20px;
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(213, 231, 245);
 }
 
 .container{
